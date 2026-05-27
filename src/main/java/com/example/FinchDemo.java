@@ -8,7 +8,7 @@ public class FinchDemo {
 
         myFinch.playNote(60,0.5);
 
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 5; i++) {
             myFinch.setBeak(100, 100, 100);
             myFinch.pause(1);
             myFinch.setBeak(0, 0, 0);
