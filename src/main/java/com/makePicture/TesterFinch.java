@@ -6,7 +6,7 @@ public class TesterFinch {
         
         CreatorFinch bird = new CreatorFinch("A");
 
-        bird.test();
+        bird.scootBack();
     }
 
 }
